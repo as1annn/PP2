@@ -1,9 +1,0 @@
-194847. Find the lost number.
-
-You're given a list of numbers \t{nums}, which contains distinct numbers in range [0, nums.size()]. But there is a problem - one number is missing from the list. Find this number and print it. 
-
-The first line of input contains an integer $n$, size of the list $(1 \le n \le 10^4)$. Next line contains $n$ unique integers, values of the list $(0 \le a_i \le 10^4)$.
-
-Print the missing number.
-
-In the first example, since there're 3 numbers, so all numbers are in the range [0, 3]. 2 is the missing number in the range since it does not appear in the list.

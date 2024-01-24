@@ -1,8 +1,0 @@
-140487. Sorting 3 numbers
-
-Given 3 numbers $a$, $b$ and $c$. Sort this three numbers by descending order.
-
-The line contain three numbers $a$, $b$ and $c$ (0 $\leqslant$ $a,b,c$ $\leqslant$ 10000).
-
-Print three numbers (maximum, medium, minumum).
-

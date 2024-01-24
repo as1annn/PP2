@@ -1,8 +1,0 @@
-197789. Find the special number.
-
-You are given an integer array. Find the special number for this array. A special number is the sum of unique elements of an array. The unique elements of an array are the elements that appear exactly once in the array.
-
-The first line contains single integer \t{n} $(1 \le n \le 100)$ - size of the array. The next line contains elements of an array. 
-
-Return the sum of all the unique elements of an array.
-
