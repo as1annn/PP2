@@ -1,0 +1,9 @@
+186650. Minimum divisor. 
+
+Find the smallest natural divisor of x, which is not equal to 1 (2 <= x <= 30000). 
+
+You are given an integer number x. 
+
+Print the smallest divisor of x, bigger than 1. 
+
+For example, in the first case, all divisors of 9: 1, 3, 9. The smallest divisor is 1, but we have the condition that it should be different than one, so the next smallest divisor is 3, so 3 is the answer. 

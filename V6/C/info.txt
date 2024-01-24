@@ -1,0 +1,16 @@
+195655. Boris and Instakgram.
+
+Boris loves Instakgram and chatting there with other persons. However, his account... tried to hack! He took all the security measures, but still he decided to create a second account. Now he needs to subscribe to all his friends again. Help Boris find out who he forgot to subscribe to.
+
+First line contains integer $N$, $(1 \leq N \leq 10^6)$ - number of subscriptions on the first account.
+
+The next $N$  lines contain the names of the first account subscriptions.
+
+The next line contains the number $M$, $(1 \leq M \leq 10^6)$   - the number of subscriptions on the second account.
+
+The next $M$  lines contain the names of the second account subscriptions.
+
+
+Print sorted in ascending order without spaces, on a separate line, the name of each subscription that is not in both accounts.
+
+In the first example, there are no subscriptions named  \t{tolik}  and  \t{gena555}  in the second account, it means we forgot to subscribe to them. 

@@ -1,0 +1,8 @@
+187563. Chebureks.
+
+Boris the cat loves chebureks. Today his mommy has prepared the $n$ number of chebureks with cheese and the $m$ chebureks with meat. Boris decided to steal several chebureks, but if his mother notices that more than 10 percent of all chebureks are missing, then she will get angry. Boris wants to steal $b$ chebureks. Will his mom be angry?
+
+You are given natural numbers $n$, $m$ and $b$. $(1 \le m, n, b \le 1000)$
+
+Print on one line \t{Boris, you are punished!} if the mother is angry, and \t{You are my sweet baby} if not.
+

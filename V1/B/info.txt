@@ -1,0 +1,8 @@
+140290. Zhomart and Cake
+
+Today is Zhomart's birthday, so he invited $N-1$ friends to his birthday. And when they were going to eat the birthday cake, they had one problem. There are $N$ people counting Zhomart himself, and you have to slice the cake to $N$ equal pieces. Count the minimum number of slices you need to make.
+
+Single integer $N$, ${1 \leq N \leq 1000}$.
+
+Single integer number of slices.
+

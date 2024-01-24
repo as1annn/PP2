@@ -1,0 +1,10 @@
+188623. Not a cheep one.
+
+Edya recently got a job at the plant, and his monthly salary is $N$ tenge per month, but he was promised to increase it by $10\%$ every month as he is a very promising young specialist. Edya loves apple technology very much, and since a new iPhone was recently released, he immediately wanted to buy it, but it's not a task, it costs $500.000$ and since Edya doesn't like taking loans, he decided to save $30\%$ of his salary every month. You need to calculate how much Edya will save up for an iPhone.
+You must enter a salary $N$ and the program must calculate the number of months it takes to accumulate for a purchase.
+
+
+Integer $N$, where $30000 \le N \le 200000$
+
+Integer - number of months 
+

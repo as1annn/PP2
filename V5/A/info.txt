@@ -1,0 +1,11 @@
+104752. Perfect square
+
+You are given an integer number \t{N}. Check is it perfect square or not. 
+
+A perfect square is a number that can be expressed as the product of two equal integers.
+
+Single input line contains number N (1 $\leq$ $N$ $\leq$ ${10^6}$).
+
+Print 'Perfecto', if given number $N$ is perfect square, otherwise print 'Simple'.
+
+For example, 9 is a perfect square because it can be expressed as 3 * 3 (the product of two equal integers).

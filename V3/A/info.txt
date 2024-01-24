@@ -1,0 +1,8 @@
+73001. Aisha's program.
+
+Aisha is in her early stage of learning Computer Science in school. But she already knows how to write easy programs. One day she wanted to surprise friends who do not know programming. So she wants you to help to write a program which greets her friens.
+
+Input line contains a string - name of the user.
+
+Write \t{Hello} with user's name.
+

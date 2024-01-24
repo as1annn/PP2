@@ -1,0 +1,8 @@
+195249. Find number withour pair.
+
+Given an array of integer numbers, where every number has its pair, except for one. Find the number that appears only once in the array.
+
+The first line of input contains an integer $n$, size of the array $(1 \le n \le 10^5)$. Next line contains $n$ integers, values of the array $(-10^5 \le a_i \le 10^5)$.
+
+Print the number that appears only once in the array.
+
